@@ -1,0 +1,6 @@
+[submodule "ControlNet"]
+	path = ControlNet
+	url = git@github.com:lllyasviel/ControlNet.git
+[submodule "ECON"]
+	path = ECON
+	url = git@github.com:YuliangXiu/ECON.git
